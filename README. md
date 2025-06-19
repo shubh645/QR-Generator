@@ -5,7 +5,7 @@
 qrcode library is commonly used library of Python for generating the qrcode. 
 
 
-- ## How it works
+- ## How it works :
 The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols). 
 
 
