@@ -11,8 +11,8 @@ The information encoded can be made up of any kind of data (e.g., binary, alphan
 
 - ### Functions (instances) 
 It uses some instances :
-1.version -controla the size the qrcode it varies in between of rhe 1-40.
-2.error-correction -handles the error generated in a qr code. It have the 4 constants 
+1. version -controla the size the qrcode it varies in between of rhe 1-40.
+2. error-correction -handles the error generated in a qr code. It have the 4 constants 
 • ERROR_CORRECT_L
 About 7% or less errors can be corrected.
 
@@ -24,5 +24,5 @@ About 25% or less errors can be corrected.
 
 • ERROR_CORRECT_H.
 About 30% or less errors can be corrected
-3.boxsize- defines the size of the Pixceles (boxes) in a qrcode. 
-4.border -Controls the width of the quiet zone (white border) around the QR code. The QR code standard requires a minimum border of 4 modules.
+3. boxsize- defines the size of the Pixceles (boxes) in a qrcode. 
+4. border -Controls the width of the quiet zone (white border) around the QR code. The QR code standard requires a minimum border of 4 modules.
